@@ -1,0 +1,19 @@
+{
+  "name": "bdleilao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.5",
+    "pg": "^8.10.0"
+  },
+  "type": "module"
+}
